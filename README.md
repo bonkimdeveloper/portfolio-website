@@ -1,7 +1,7 @@
 # Hi there, I'm Bonkim Chakroborty 👋
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=bonkim chakroborty&label=Profile%20views&color=0e75b6&style=flat" alt="bonkim chakrobort" />
+<img width="1920" height="5683" alt="image" src="https://github.com/user-attachments/assets/76061416-6085-4fff-9957-b9e16d18a74d" />
 </p>
 
 I am a passionate **Web Designer & WordPress Expert** with over 1.5 years of experience in creating sleek, modern, and user-centric websites. I love turning complex requirements into simple, elegant, and functional digital experiences.
