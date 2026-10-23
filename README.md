@@ -1,7 +1,7 @@
-# Hi there, I'm Avijit Chakroborty 👋
+# Hi there, I'm Bonkim Chakroborty 👋
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=avijitchakroborty&label=Profile%20views&color=0e75b6&style=flat" alt="avijitchakroborty" />
+  <img src="https://komarev.com/ghpvc/?username=bonkim chakroborty&label=Profile%20views&color=0e75b6&style=flat" alt="bonkim chakrobort" />
 </p>
 
 I am a passionate **Web Designer & WordPress Expert** with over 1.5 years of experience in creating sleek, modern, and user-centric websites. I love turning complex requirements into simple, elegant, and functional digital experiences.
